@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Mar 2023 14:43:39 at https://pubgucfreee.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pubgucfreee.netlify.app/ -O1 "C:\Users\ABNGAZA\Desktop\samir" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:53	Error: 	"Not Found" (404) at link https://pubgucfreee.netlify.app/fonts.googleapis.com/css093a.css?family=Poppins:300,400,700,900&display=swap (from https://pubgucfreee.netlify.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 34 links scanned, 32 files written (2955821 bytes overall), 32 files updated [2550104 bytes received at 170006 bytes/sec], 528430 bytes transferred using HTTP compression in 25 files, ratio 19%
+(1 errors, 0 warnings, 0 messages)
